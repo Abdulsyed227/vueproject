@@ -1,2 +1,2 @@
 # vueproject
-just demo application
+just demo application - trying to make some changes
